@@ -303,5 +303,3 @@ You can use the following resources to enhance your application further:
 
 - Add [caching](https://www.prisma.io/docs/postgres/caching) to your queries.
 - Explore the [Prisma Postgres documentation](https://www.prisma.io/docs/postgres/getting-started).
-
-You can follow the [end-to-end guide from Prisma](https://www.prisma.io/docs/guides/realtime-apps) to learn how to build a real-time application with Hono and Prisma Postgres, and deploy it to Cloudflare Workers.
